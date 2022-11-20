@@ -1,4 +1,5 @@
 //https://www.codewars.com/kata/563b662a59afc2b5120000c6
+//
 int nbYear(int p0, double percent, int aug, int p) {
   percent = percent / 100;
   var years = 0;
