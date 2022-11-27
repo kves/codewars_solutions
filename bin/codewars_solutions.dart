@@ -9,7 +9,8 @@ import 'package:codewars_solutions/mumbling.dart';
 import 'package:codewars_solutions/nth_smallest_element.dart';
 import 'package:codewars_solutions/reversed_string.dart';
 import 'package:codewars_solutions/sum_arrays.dart';
+import 'package:codewars_solutions/word_values.dart';
 
 void main(List<String> arguments) {
-  print(divisors(2));
+  print(wordValue(['stanford bridge', 'asd asd']));
 }
