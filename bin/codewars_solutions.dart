@@ -1,3 +1,4 @@
+import 'package:codewars_solutions/alternate_capitalization.dart';
 import 'package:codewars_solutions/century_from_year.dart';
 import 'package:codewars_solutions/convert_string_to_a_number.dart';
 import 'package:codewars_solutions/count_by_x.dart';
@@ -12,5 +13,5 @@ import 'package:codewars_solutions/sum_arrays.dart';
 import 'package:codewars_solutions/word_values.dart';
 
 void main(List<String> arguments) {
-  print(wordValue(['stanford bridge', 'asd asd']));
+  print(capitalize('asd'));
 }
