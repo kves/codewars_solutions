@@ -7,6 +7,7 @@ import 'package:codewars_solutions/find_the_stray_number.dart';
 import 'package:codewars_solutions/grasshopper_grade_book.dart';
 import 'package:codewars_solutions/grasshopper_summation.dart';
 import 'package:codewars_solutions/growth_of_a_population.dart';
+import 'package:codewars_solutions/maximum_triplet_sum.dart';
 import 'package:codewars_solutions/mumbling.dart';
 import 'package:codewars_solutions/nth_smallest_element.dart';
 import 'package:codewars_solutions/reversed_string.dart';
@@ -14,5 +15,5 @@ import 'package:codewars_solutions/sum_arrays.dart';
 import 'package:codewars_solutions/word_values.dart';
 
 void main(List<String> arguments) {
-  print(stray([2, 1, 1, 1]));
+  print(maxTriSum([1, 2, 2, 3, 1, 23, 32, 2, 1]));
 }
