@@ -10,10 +10,11 @@ import 'package:codewars_solutions/growth_of_a_population.dart';
 import 'package:codewars_solutions/maximum_triplet_sum.dart';
 import 'package:codewars_solutions/mumbling.dart';
 import 'package:codewars_solutions/nth_smallest_element.dart';
+import 'package:codewars_solutions/return_negative.dart';
 import 'package:codewars_solutions/reversed_string.dart';
 import 'package:codewars_solutions/sum_arrays.dart';
 import 'package:codewars_solutions/word_values.dart';
 
 void main(List<String> arguments) {
-  print(maxTriSum([1, 2, 2, 3, 1, 23, 32, 2, 1]));
+  print(makeNegative(45));
 }
