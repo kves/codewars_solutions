@@ -1,5 +1,5 @@
-import 'package:codewars_solutions/nice_array.dart';
+import 'package:codewars_solutions/minimize_sum_of_array.dart';
 
 void main(List<String> arguments) {
-  print(isNice([1, 2, 3, 8]));
+  print(minSum([1, 0, 5, 10]));
 }
